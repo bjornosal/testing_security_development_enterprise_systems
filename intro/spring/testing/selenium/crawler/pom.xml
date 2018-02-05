@@ -7,7 +7,7 @@
     <packaging>jar</packaging>
 
     <parent>
-        <groupId>org.tsdes.intro.spring.selenium</groupId>
+        <groupId>org.tsdes.intro.spring.testing.selenium</groupId>
         <artifactId>selenium</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
